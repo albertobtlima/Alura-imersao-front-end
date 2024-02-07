@@ -5,7 +5,8 @@ Este curso faz parte da semana da imersão da **Alura Cursos** que foi realizada
 Durante a semana da Imersão Front-End foi desenvolvido um projeto com o objetivo de replicar a pagina web do **Spotify**.
 
 **Tecnologias Usadas:**
-* HTML e CSS
+* HTML 
+* CSS
 * JavaScript
 * React
 
