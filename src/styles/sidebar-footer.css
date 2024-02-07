@@ -42,6 +42,10 @@ button {
     padding: 10px 0;
 }
 
+.sidebar nav ul li a:hover {
+    color: #ffffff;
+}
+
 .sidebar nav ul li a {
     color: #b3b3b3;
     text-decoration: none;
