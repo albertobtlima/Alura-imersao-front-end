@@ -56,7 +56,7 @@ Nesta aula, iremos utilizar o CSS Grid no projeto, para os cards da página inic
 
 **Aula 05**
 
-Nesta última aula, iremos utilizar frameworks de JavaScript React no projeto para, assim, criarmos o componente <Header>!
+Nesta última aula, iremos utilizar frameworks de JavaScript React no projeto para, assim, criarmos o componente Header!
 
 * Dar introdução a um projeto React;
 * Utilizar o framework React para criar o componente <Header>;
