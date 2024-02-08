@@ -10,7 +10,6 @@ Durante a semana da Imersão Front-End foi desenvolvido um projeto com o objetiv
 * HTML 
 * CSS
 * JavaScript
-* React
 
 **Instrutores**: Fernanda Degolin, Mayara Cardoso e Guilherme Lima
 
