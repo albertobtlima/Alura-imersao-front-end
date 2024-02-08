@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Spotify Imersão</title>
+    <link rel="shortcut icon" href="./src/assets/icons/favicon.png" type="image/x-icon" />
     <link rel="stylesheet" href="./src/styles/reset.css">
     <link rel="stylesheet" href="./src/styles/vars.css">
     <link rel="stylesheet" href="./src/styles/sidebar-footer.css">
@@ -72,11 +73,12 @@
                     <button class="arrow-right">
                         <img src="./src/assets/icons/small-right.png" alt="" />
                     </button>
-                </div>
-                <div class="header__search">
-                    <img src="./src/assets/icons/search.png" alt="" />
-                    <input id="search-input" maxlength="800" autocorrect="off" autocapitalize="off" spellcheck="false"
-                        placeholder="O que você quer ouvir?" value="" />
+                
+                    <div class="header__search">
+                        <img src="./src/assets/icons/search.png" alt="" />
+                        <input id="search-input" maxlength="800" autocorrect="off" autocapitalize="off" spellcheck="false"
+                            placeholder="O que você quer ouvir?" value="" />
+                    </div>
                 </div>
                 <div class="header__login">
                     <button class="subscribe">Inscreva-se</button>
@@ -219,6 +221,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div id="result-artist" class="hidden">
                     <div class="grid-container">
                         <div class="artist-card" id="">

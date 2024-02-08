@@ -44,10 +44,15 @@
     align-items: center;
     width: 364px;
     height: 48px;
+    margin-left: 15px;
     background-color: #242424;
     border-radius: 500px;
     border: 1px solid transparent;
 }
+
+.header__search:hover {
+    border: 1px solid #fff;
+} 
 
 .header__search img {
     width: 16px;
@@ -80,6 +85,11 @@
     margin-right: 32px;
 }
 
+.header__login .subscribe:hover {
+    color: #fff;
+    font-size: 17px;
+}
+
 .header__login .login {
     width: 100px;
     height: 48px;
@@ -88,6 +98,10 @@
     font-weight: 700;
     border-radius: 40px;
     border: none;
+}
+
+.header__login .login:hover {
+    font-size: 17px;
 }
 
 /* PLAYLIST */
